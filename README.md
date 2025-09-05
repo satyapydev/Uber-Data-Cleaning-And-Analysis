@@ -42,7 +42,6 @@
 
 ---
 
-✨ *This repo provides a foundation for further visualization and ML-based demand forecasting.*  
-
+✨ *This repo provides a foundation for further visualization and ML-based demand forecasting.*  <br><br><br>
 <p align="center">Made with ⚡gator energy⚡</p>
 
